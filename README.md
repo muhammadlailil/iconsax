@@ -5,8 +5,8 @@
 ---
 
 #### ICONS LIST:
-[Outline](https://github.com/muhammadlailil/iconsax/demo/outline.html)<br>
-[Bold](https://github.com/muhammadlailil/iconsax/demo/bold.html)
+[Outline](https://muhammadlailil.github.io/iconsax/demo/outline.html)<br>
+[Bold](https://muhammadlailil.github.io/iconsax/demo/bold.html)
 
 ---
 
