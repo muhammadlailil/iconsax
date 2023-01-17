@@ -1,11 +1,12 @@
 ### Icons from Iconsax (by Vuesax)
 
-[iconsax.io](https://iconsax.io) | [vuesax.com](https://vuesax.com) |  [glenthemes.github.io/iconsax](https://glenthemes.github.io/iconsax/)
+[iconsax.io](https://iconsax.io) | [vuesax.com](https://vuesax.com)
 
 ---
 
 #### ICONS LIST:
-[github.com/muhammadlailil/iconsax](https://github.com/muhammadlailil/iconsax/tree/main/icons)
+[Outline](https://github.com/muhammadlailil/iconsax/demo/outline.html)<br>
+[Bold](https://github.com/muhammadlailil/iconsax/demo/bold.html)
 
 ---
 
@@ -13,15 +14,18 @@
 
 Paste the essential scripts (also under `<head>`):
 ```
-<script src="https://muhammadlailil.github.io/iconsax/iconsax.js"></script>
+ <link rel="stylesheet" href="https://muhammadlailil.github.io/iconsax/style/iconsax.css"/>
 ```
-
+For outline icon only
+```
+ <link rel="stylesheet" href="https://muhammadlailil.github.io/iconsax/style/outline.css"/>
+```
+For bold icon only
+```
+ <link rel="stylesheet" href="https://muhammadlailil.github.io/iconsax/style/bold.css"/>
+```
 To use an icon, paste the following line where you want your icon to be:
 ```
-<iconsax name="buildings" type="bold" color="black" size="50"></iconsax>
-<iconsax name="buildings"></iconsax> // outline
-<iconsax name="buildings" type="broken"></iconsax> // broken
-<iconsax name="buildings" type="bulk"></iconsax> // bulk
-<iconsax name="buildings" type="linear"></iconsax> // linear
-<iconsax name="buildings" type="twoline"></iconsax> // twoline
+<span class="isax-b icon-arrow-square-right"></span>
+<span class="isax icon-toggle-on-circle"></span>
 ```
