@@ -5,7 +5,7 @@
 ---
 
 #### ICONS LIST:
-[github.com/muhammadlailil/iconsax/icons](https://github.com/muhammadlailil/iconsax/icons)
+[github.com/muhammadlailil/iconsax](https://github.com/muhammadlailil/iconsax/tree/main/icons)
 
 ---
 
