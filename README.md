@@ -12,7 +12,7 @@
 
 #### HOW TO USE:
 
-Paste the essential scripts (also under `<head>`):
+Paste the css style on `<head>`
 ```
  <link rel="stylesheet" href="https://muhammadlailil.github.io/iconsax/style/iconsax.css"/>
 ```
