@@ -12,7 +12,7 @@ function initIconsax() {
     var svgObject = document.createElement("object");
     svgObject.type = "image/svg+xml";
     svgObject.class = `iconsax-icon`;
-    svgObject.data = `./icons/${type}/${icon}.svg`;
+    svgObject.data = `https://muhammadlailil.github.io/iconsax/icons/${type}/${icon}.svg`;
     iconsax.prepend(svgObject);
     svgObject.addEventListener("load", function () {
       const svg = this.getSVGDocument().documentElement;
