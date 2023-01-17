@@ -26,6 +26,6 @@ For bold icon only
 ```
 To use an icon, paste the following line where you want your icon to be:
 ```
-<span class="isax-b icon-arrow-square-right"></span>
-<span class="isax icon-toggle-on-circle"></span>
+<span class="isax-b icon-arrow-square-right"></span> // for bold icon with isax-b
+<span class="isax icon-toggle-on-circle"></span> // for outline icon with isax
 ```
